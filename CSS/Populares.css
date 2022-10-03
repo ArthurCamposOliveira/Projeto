@@ -1,0 +1,22 @@
+.faixa_1{
+    margin-top: 80px;
+ }
+ 
+ .faixa_2{
+     display: flex;
+     justify-content: space-between;
+     margin-top: 100px;
+     border-radius: 2%;
+     margin-left: 10px   ;
+     
+  }
+ 
+  .Padrao{
+     height: 160px;
+  }
+ 
+  .titulo{
+     margin-left: 10px;
+     margin-top: 40px;
+ 
+  }

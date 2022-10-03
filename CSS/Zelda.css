@@ -1,0 +1,49 @@
+.navbar{
+    margin-left: -20px;
+    margin-right: -12px;
+}
+
+.card{
+    margin-left: 160vh ;
+    margin-top: -405px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.quadro{
+    margin-left: 45px;
+    margin-top: -395px;
+    border-radius: 2%;
+}
+
+.Comprar{
+    width: 250px;
+}
+
+.principal{
+    width: 320px;
+    height: 400px;
+    margin-left: 90vh;
+    margin-top: 40px;
+    background-color: white;
+    border-radius: 2%;
+    
+}
+
+.texto_principal{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: -40px;
+    
+}
+
+.estrelas{
+   margin-left: 0px;
+}
+
+.titulo{
+    font-size: x-large;
+}
